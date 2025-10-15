@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ### Hi there! I'm **Mostafa Shaker**  
-🎓 AI & Data Science Student | 💻 Data Analyst | 🤖 Machine Learning Enthusiast  
+🎓 AI & Data Science Engineer | 💻 Data Analyst | 🤖 Machine Learning Enthusiast  
 
 ---
 
