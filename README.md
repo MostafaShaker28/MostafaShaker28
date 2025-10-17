@@ -62,7 +62,7 @@ building end-to-end analytical and predictive projects that tell a story through
 
 🔹 **Heart Disease Data Analysis**  
 📊 Analyzed and visualized the Heart Disease dataset using Python & Power BI.  
-🔗 [View Project]([https://github.com/MostafaShaker28/Heart-Disease-Analysis](https://github.com/MostafaShaker28/Heart-Disease-Project.git))
+🔗 [View Project](https://github.com/MostafaShaker28/Heart-Disease-Project.git)
 
 🔹 **World Economics Data Analysis**  
 🌍 Explored global economic indicators — GDP, Inflation, Debt, and Unemployment.  
