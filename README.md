@@ -66,7 +66,7 @@ building end-to-end analytical and predictive projects that tell a story through
 
 🔹 **World Economics Data Analysis**  
 🌍 Explored global economic indicators — GDP, Inflation, Debt, and Unemployment.  
-🔗 [View Project](https://github.com/MostafaShaker28/world_economics_analysis)
+🔗 [View Project](https://github.com/MostafaShaker28/World-Economics-Data-Analysis-Project.git)
 
 ---
 
